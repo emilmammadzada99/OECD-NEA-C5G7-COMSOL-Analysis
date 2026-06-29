@@ -63,8 +63,8 @@ where the fission source `f = λ · χ · νΣf · φ` is placed in the source t
 - Eigenvalue solver: ARPACK
 - DOF: ~147,091
 ## Pictures (phi1-phi7)
-![C5G7 Flux Distribution_phi1](Capture.png)
-![C5G7 Flux Distribution_phi7](Capture1.png)
+![C5G7 Flux Distribution_phi1](Capture.JPG)
+![C5G7 Flux Distribution_phi7](Capture1.JPG)
 ## References
 
 - OECD/NEA, *Benchmark on Deterministic Transport Calculations Without Spatial Homogenisation*, NEA/NSC/DOC(2003)16
